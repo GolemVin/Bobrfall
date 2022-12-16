@@ -7,7 +7,7 @@ window = Tk()
 window.geometry("600x750")
 window.title("Bobrfall")
 window.resizable(False,False)
-color = "gold"
+color = "black"
 window["bg"] = color
 
 c = Canvas(window, height = 750, width = 600, bg = "white")
